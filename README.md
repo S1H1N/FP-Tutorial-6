@@ -1,2 +1,2 @@
-# FP-Tutorial-6
+# FP-Caesar Cypher
 Functional Programming Caesar cipher
